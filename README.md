@@ -75,6 +75,7 @@ http://dialogplan.com/?format="yaml"&out="md"&url[0]="https://github.com/dialogp
 
 
 
+
 ## Funkcje
 
 Zbudowanie struktury na bazie text -> yaml
@@ -82,6 +83,6 @@ zapisanie per user
 share do konkretnych userów na tej platformie
 można stworzyć dedykowane url
 
-
++ Edycja plików yaml zdalnie na organizachach, serwerze przez API github / gitlab
 
 
