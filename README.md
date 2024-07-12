@@ -1,6 +1,14 @@
 # [docs.dialogplan.com](http://docs.dialogplan.com)
 
 
+"Plan" najlepiej oddaje ideę scenariusza wykonania projektu. Sugeruje strukturę, organizację i przewidywanie przyszłych działań.
+Słowo "plan" kojarzy się z harmonogramem, co dobrze pasuje do określania czasu wykonania poszczególnych etapów.
+"Plan" implikuje również ustalanie priorytetów i sekwencji działań, co odpowiada określaniu priorytetów i zależności między etapami.
+"Dialog" w tym kontekście może sugerować interaktywność lub możliwość dostosowania planu, co jest przydatne w zarządzaniu projektami.
+"Dialogplan" brzmi profesjonalnie i jest łatwe do zapamiętania, co jest ważne z marketingowego punktu widzenia.
+
+
+
 ## Dlaczego powstał ten projekt?
 
 Terminologia związana ze zmianą statusu projektu może różnić się w zależności od organizacji i branży - różne firmy i zespoły mogą mieć własne, unikalne nazewnictwo dla tych etapów.
