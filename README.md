@@ -7,6 +7,9 @@ Słowo "plan" kojarzy się z harmonogramem, co dobrze pasuje do określania czas
 "Dialog" w tym kontekście może sugerować interaktywność lub możliwość dostosowania planu, co jest przydatne w zarządzaniu projektami.
 "Dialogplan" brzmi profesjonalnie i jest łatwe do zapamiętania, co jest ważne z marketingowego punktu widzenia.
 
+## Źródła
+
++ [Ścieżka krytyczna – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/%C5%9Acie%C5%BCka_krytyczna)
 
 
 ## Dlaczego powstał ten projekt?
