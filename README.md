@@ -10,7 +10,7 @@ Słowo "plan" kojarzy się z harmonogramem, co dobrze pasuje do określania czas
 ## Źródła
 
 + [Ścieżka krytyczna – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/%C5%9Acie%C5%BCka_krytyczna)
-
++ [PERT – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/PERT)
 
 ## Dlaczego powstał ten projekt?
 
